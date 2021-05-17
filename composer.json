@@ -1,0 +1,14 @@
+{
+  "name": "manhtq/ithemes-security-pro",
+  "type": "wordpress-plugin",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/manh-trinhquoc/ithemes-security-pro",
+  "authors": [{
+    "name": "manhtq",
+    "homepage": "https://github.com/manh-trinhquoc"
+  }],
+  "require": {
+    "php": ">=5.6"
+  }
+}
